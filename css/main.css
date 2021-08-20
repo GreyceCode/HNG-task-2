@@ -1,0 +1,33 @@
+.bg-primary{
+    background-color: rgb(7, 7, 51)!important;
+}
+.container-fluid{
+    background-color: rgb(250, 248, 252);
+}
+.name{
+    color: black;
+}
+.li_wrap{
+    color: rgb(34, 34, 34);
+    font-size: 25px;
+}
+.date{
+    color: rgb(85, 84, 84);
+    font-weight: 30px;
+}
+p{
+    color: rgb(63, 64, 65);
+}
+.title{
+    color: rgb(63, 64, 65);
+}
+.email_text{
+    color: rgb(97, 96, 96);
+}
+.logo {
+    width: 2rem;
+    height: 2rem;
+}
+section.resume-section{
+    min-height: 20vh!important;
+}
